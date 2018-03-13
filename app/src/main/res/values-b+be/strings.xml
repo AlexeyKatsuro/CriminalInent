@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Введите название преступления.</string>
+
+    <string name="crime_title_label">Название</string>
+    <string name="crime_details_label">Подробности</string>
+    <string name="crime_solved_label">Раскрыто?</string>
+    <string name="date_picker_title">Дата преступления:</string>
+    <string name="ok">Ok</string>
+
+    <string name="new_crime">Новое преступление</string>
+    <string name="delete_crime">Удалить преступление</string>
+    <string name="show_subtitle">Показать количество</string>
+    <string name="hide_subtitle">Скрыть количество</string>
+
+    <string name="list_is_empty">Список пуст</string>
+
+    <string name="subtitle_format">преступлений: %1$s</string>
+
+    <plurals name="subtitle_plural">
+        <item quantity="one">преступлений: %1$s</item>
+        <item quantity="other">преступлений: %1$s</item>
+    </plurals>
+
+    <string name="crime_suspect_text">Выберите Подозреваемого</string>
+    <string name="crime_report_text">Отправить отчет о преступности</string>
+    <string name="crime_report">%1$s!
+        Преступление было %2$s. %3$s, и %4$s
+    </string>
+
+    <string name="crime_report_solved">Преступление рассскрыто</string>
+    <string name="crime_report_unsolved">Преступление нерассскрыто</string>
+    <string name="crime_report_no_suspect">нет подозреваемого.</string>
+    <string name="crime_report_suspect">подозреваемый: %s.</string>
+    <string name="crime_report_subject">CriminalIntent Отчет о преступности</string>
+    <string name="send_report">Отправить отчет о преступлениях через</string>
+    <string name="untitled">Без названия</string>
+</resources>
